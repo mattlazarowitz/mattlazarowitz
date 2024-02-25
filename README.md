@@ -7,7 +7,7 @@ Node-Red to provide a dashboard and logging capabilities.
 C is my strongest language but I am trying to improve my C++ via Arduino projects.
 I'm learning Javascript in the context of Node-Red which is reflected here.
 I also have some experience with simple Python scripts in tools I've written. 
-Most of my Python experience both personal and professional has been for data extration and organization. 
+Most of my Python experience both personal and professional has been for gathering data and helping me to understand what it means.
 
 <!---
 mattlazarowitz/mattlazarowitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

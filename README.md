@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @mattlazarowitz
 
-I use this space to store past projects and hope that perhaps some of my work might help others. 
-At present, most of what is here are Arduino projects trargeting the ESP8266 to implement IOT sensors that then use 
-Node-Red to provide a dashboard and logging capabilities. 
+When I created this account, I intended to share various things I've created. 
+What has actually happened are that projects get started by stagnate or I get them to a rough level of functionality to only see an alternative implementation that I decide to persue. 
 
-C is my strongest language but I am trying to improve my C++ via Arduino projects.
-I'm learning Javascript in the context of Node-Red which is reflected here.
-I also have some experience with simple Python scripts in tools I've written. 
-Most of my Python experience both personal and professional has been for gathering data and helping me to understand what it means.
+So instead what I hope to convey are two things.
+The first is that I continue to persue software engineering and programing for myself, try to learn new skills, and fill in skills gaps.
+The second is to help provide something for others trying to learn to see as an example even if the shining light is self immolation :)
+
+You can check out my processional background in my repository mattlazarowitz/matt_lazarowitz_cv too. 
+The most interesting jobs I've had have been working with datacenter tech. The most fun stuff I've created are my Arduino IOT sensors.
+What I enjoy doing is creating things that are useful.
 
 <!---
 mattlazarowitz/mattlazarowitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
